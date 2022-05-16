@@ -4,3 +4,16 @@ git clone <repository url> : to clone repository to our local machine.
 git add <file> : to add file into cloned folder.
 git commit -m "any tag or massege" : to commit the added file to repository.
 git push : to send the commited repository to github server or website from local server.
+
+
+Summery: 
+(What we have learn on lecture - 14)
+
+We have learn about visual studio code(aslo called VS code) and try to understand the application of  VS cde. VS code is kind of code editor and it is very fast. This editor is uesful for multiple languages scripts like markdown, html, css, python, java, c++, etc. It has many extentions with increases the coding or editing speed and visualising the our works. We have learn that we can open the github repository in VS code, visualise the content and edit the content then we can also commit and push the changes or mofifications to our github server. We can run or access the content in more appropriate manner in VS code as we have several options at the top menu of VS code. 
+
+We have learn about useful extentions of VS code for our future uses. 
+Fist we learnt about the extention "markdown all in one". It has so many advantages and options to work with markdown files. One of the advantage is that we can preview our work or final output of for our script in right of our script with this extantion, simultaneously after coding modifiying scripts on VS code. We don't need to post our script to the the server to get or verify the final result. 
+
+We learn the importance of organised document. And markdown helps us to organise our document or the website in a appropriate way. It helps to make the documents more interective and understandable. In an organised document one can find the required things easily without any effort using outline links or content links etc. An organised document has proper distributions of area with proper heading. It has particular structures like tables, bullet lists and different fonts or scals for latter used for different for area, so that, a proper stress is reflected from different area to readers. And markdownd is very usful for us to made such organised file without the knowledge of html or other scripts.
+
+We learn to make a markdown file using VS code editor to make a document. First we made a folder then we created a file with extention '.md' on VS code. For title of the document we used "#" in front. For subtitle we used "##" and subsubtitle we can ues "###" and so on. For adding cotants under titles or subtitles we need to write the content in next line to titles or subtitles.   
