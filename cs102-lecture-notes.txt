@@ -1,0 +1,6 @@
+git config --global user.name "Name" : used to save our identity w.r.t. username.
+git config --global user.email "Email" : used to save our identity w.r.t. user email id.
+git clone <repository url> : to clone repository to our local machine.
+git add <file> : to add file into cloned folder.
+git commit -m "any tag or massege" : to commit the added file to repository.
+git push : to send the commited repository to github server or website from local server.
